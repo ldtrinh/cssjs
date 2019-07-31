@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.con/nharebienhoa/';
+	var url_popup = 'https://www.facebook.com/nharebienhoa/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
